@@ -1,2 +1,2 @@
-# vdt-book-app
-VdT Marketing Book App
+# VdT Marketing Book App
+**vdt-book-app**
