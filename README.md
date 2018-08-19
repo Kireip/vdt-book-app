@@ -1,2 +1,2 @@
-# VdT Marketing Book App
-**vdt-book-app**
+# VdT ReactPress
+**React Frontend for WordPress REST API**
